@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         var texto:TextView=findViewById(R.id.texto)
 
-
+  //editado
     }
 }
